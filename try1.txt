@@ -1,1 +1,2 @@
 hola, esta es la practica 2
+Ahora haciendo comentario desde el repositorio remoto de GitHub
